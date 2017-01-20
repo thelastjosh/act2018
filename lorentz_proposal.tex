@@ -27,53 +27,55 @@
 \subsection{Scientific background}
 Category theory was developed in the 1940s to translate ideas from one field of mathematics, e.g. topology, to another field of mathematics, e.g. algebra. More recently, category theory has become an unexpectedly useful and economical tool for modeling a range of different disciplines, including programming language theory \cite{abramsky}, quantum mechanics \cite{coecke}, systems biology \cite{cardelli}, complex networks \cite{baez}, database theory \cite{rosebrugh}, and dynamical systems \cite{spivak}.
 
-A category consists of a collection of objects together with a collection of maps between those objects, satisfying certain rules. Topologists and geometers use categories as mathematical workspaces, while pure category theorists study them as their own mathematical structures. In computer science and physics, many categorical constructions (e.g. topoi, or Stone duality, or compact closed categories) are used to give a formal semantics of domain-specific phenomena (e.g. recursive types \cite{simpson}, or automata \cite{pippenger}, or quantum protocols \cite{abramsky_coecke}).\footnote{The categorical semantics is often preferable to set- or type-theoretic semantics in some way: for example, compact closed categories have an elegant graphical language in terms of string diagrams.} In the applied category theory community, a long-articulated vision understands categories as mathematical workspaces for all sciences, not just topology and geometry \cite{spivak_book}. While it is too early to say whether this vision will bear fruit, we do believe that category theory has the potential to bridge \emph{specific} different fields, and moreover that developments in such fields (e.g. dynamical systems) can be transferred successfully into other fields (e.g. systems biology) \emph{through} category theory.
+A category consists of a collection of objects together with a collection of maps between those objects, satisfying certain rules. Topologists and geometers use category theory to describe the passage from one mathematical structure to another, while pure category theorists study categories as their own mathematical structures. In computer science and physics, many categorical constructions (e.g. topoi, or Stone duality, or compact closed categories) are used to give a formal semantics of domain-specific phenomena (e.g. recursive types \cite{simpson}, or automata \cite{pippenger}, or quantum protocols \cite{abramsky_coecke}).\footnote{The categorical semantics is often preferable to set- or type-theoretic semantics in some way: for example, compact closed categories have an elegant graphical language in terms of string diagrams.} In the applied category theory community, a long-articulated vision understands categories as mathematical workspaces for all sciences, similar to how they are used in topology and geometry \cite{spivak_book, earlier_citation?}. While it is too early to say whether this vision will bear fruit, we do believe that category theory has the potential to bridge \emph{specific} different fields, and moreover that developments in such fields (e.g. automata) can be transferred successfully into other fields (e.g. systems biology) \emph{through} category theory.
 
-Most extant applications of category theory outside of pure mathematics have used categories to \emph{model} some phenomena, in the tradition of formal semantics. The most recent workshop on applied category theory was held in 2015 at Dagstuhl, Germany, wherein ``the over-arching research theme was to develop categorical methods as a unified approach to the modeling of complex systems, and category theory as a paradigm for mathematical modeling and applied science'' \cite{dagstuhl}. It is another, further step to use category theory as a \emph{medium} for knowledge representation and integration, in the sense of a mathematical workspace. \redout{We believe... this is the future? ... this approach has been underrepresented? ... this topic has been largely unexplored? ... the difference is largely psychological, like the difference between classical and modern geometry? ... cited in early examples, like Baez's `rosetta stone' \cite{baez_rosetta}? ... is the language just convenient for manipulation, or are there real \emph{theorems} that go between fields?}
+Most extant applications of category theory outside of pure mathematics have used categories to model some phenomena, in the tradition of formal semantics. The most recent workshop on applied category theory was held at Dagstuhl, Germany, in 2015, where ``the over-arching research theme was to develop categorical methods as a unified approach to the modeling of complex systems, and category theory as a paradigm for mathematical modeling and applied science'' \cite{dagstuhl}. But one of the observations made at Dagstuhl, was that ``a weakness of semantics/CT is that the definitions play a key role. Having the right definitions makes the theorems trivial, which is the opposite of hard subjects where they have combinatorial proofs of theorems (and simple definitions). [...] In general, the audience agrees that people sees category theorists only as reconstructing the things they knew already, and that is a disadvantage, because we do not give them a good reason to care enough'' \cite{selinger_at_dagstuhl}.
+
+In this workshop, we wish to articulate a natural response: instead of treating the reconstruction as a weakness, we should treat categorification as a natural consequence of transferring and integrating knowledge across disciplines, in the sense of a mathematical workspace. \redout{We believe... this is the future? ... this approach has been underrepresented? ... this topic has been largely unexplored? ... the difference is largely psychological, like the difference between classical and modern geometry? ... cited in early examples, like Baez's `rosetta stone' \cite{baez_rosetta}? ... is the language just convenient for manipulation, or are there real \emph{theorems} that go between fields?}
 
 % The first and most successful example of this was the use of category theory to transmit ideas from mathematics into computer science, for example through monads in functional programming, or through the Curry-Howard-Lambek correspondence between intuitionistic logic, typed lambda calculus, and cartesian closed categories.
 
- % The goals of the workshop are (1) to create a more cohesive and connected ACT community, especially among early-stage researchers, (2) to develop existing and new applications of category theory, and (3) to try to outline common goals and open problems for the field, i.e. across multiple applications.
-
-\subsection{Precedence}
-Dagstuhl?
-
 \subsection{Specific challenges and outcomes}
-This workshop will bring together both theorists and practitioners from a wide variety of disciplines to work on new applications of category theory in (1) dynamical systems and networks, (2) systems biology, and (3) cognition and AI, with a special focus on developing a community of early-stage researchers in applied category theory, and on fostering fresh dialogue between researchers working on different applications.
+This workshop will bring together both theorists and practitioners from a wide variety of disciplines to work on new applications of category theory in (1) dynamical systems and networks, (2) systems biology, and (3) cognition and AI, with a special focus on developing a community of early-stage researchers in applied category theory, and on fostering focused dialogue between researchers working on different applications. It will consist of a 5-day workshop week, an attached 3-day tutorial weekend immediately before, and a 3-month online seminar for PhD students called the ``Kan Extension Lab''.
 
 Some of the specific challenges and outcomes we wish to address include:
 \begin{enumerate}
 \item Computability: \redout{BRENDAN}
-\item Pedagogy: despite the flexibility and expressiveness of categorical tools in mathematics and computer science, the perceived difficulty of category theory has hindered wider acceptance of the formalism. As a consequence, many researchers in different communities share the feeling of under-exploitation of the potentialities of category theory to their areas of interest. We plan on addressing this problem over the tutorial weekend, and through the organization of the ``Kan Extension Lab''.
+\item Communication: \redout{how do we communicate with other fields? From Dagstuhl: ``Learning to talk with different communities is an import an point in the quest of finding open problems in other areas where CT can make a contribution. Coinduction in theorem provers is still an open problem and though the communication issue with the theorem proving community is not such a big issue one still does not see enough cross-fertilization. Peter mentions that communication problems are also present in quantum computation though there one already sees contributions.''}
+\item Pedagogy: one of the open problems discussed at Dagstuhl was the perceived and actual difficulty of category theory. Despite the flexibility and expressiveness of categorical tools in mathematics and computer science, the perceived difficulty of category theory has hindered wider acceptance of the formalism in other areas of interest. Different approaches were suggested, including focusing on automated theorem proving. We plan on addressing this problem over the tutorial weekend, and through the organization of the ``Kan Extension Lab''.
 \end{enumerate}
 
 Other challenges, specific to each application area, include \redout{???} (dynamical systems), \redout{???} (dynamical systems), \redout{???} (systems biology), and \redout{???} (cognition and AI).
 
-Our workshop will be considered a success if it results in joint research between researchers specializing in different applications (e.g. physics and biology, or economics and AI) or in research that carries over techniques from one application domain of category theory to another, and if the workshop introduces new people into the field.
+Our workshop will be considered a success if it results in joint research between researchers specializing in different applications (e.g. physics and biology, or economics and AI) or in research that carries over techniques from one application domain of category theory to another, and if the workshop introduces new researchers into the field.
 
 \subsection{Connection to the Dutch research community}
 \redout{ALEKS: in the Dutch applied category theory community... this would be Bart + Aleks at Nijmegen, plus Martha Lewis, plus some others.}
 
 \section{Program}
 \subsection{Workshop week}
-The workshop highlights three particular applications of category theory: (1) to dynamical systems and networks, (2) to systems biology, and (3) to cognition and AI. While there will be a short introductory lecture for each application domain, the afternoons will intermix all three applications by focusing on common techniques (Monday and Wednesday), computational tools (Tuesday), common problems (Thursday morning), and common goals (Thursday afternoon) across all three.
+The workshop highlights three particular applications of category theory: (1) to dynamical systems and networks, (2) to systems biology, and (3) to cognition and AI. While there will be a short introductory lecture for each application domain, the afternoons will intermix all three applications by focusing on common techniques (Monday and Wednesday), computational tools (Tuesday), and common problems and goals (Thursday afternoon) across all three. On Thursday morning, there will be a half-day Highlights session of 8-minute talks.
 
 \begin{table}[h!]
 \begin{center}
+%\tiny
 \begin{tabular}{|c||p{.15\linewidth}|p{.15\linewidth}|p{.15\linewidth}|p{.15\linewidth}|p{.15\linewidth}|}
 \hline
 Time & Monday & Tuesday & Wednesday & Thursday & Friday \\ \hline
-9:00 - 9:30 & Arrival at & & & & \\ \cline{3-6}
-9:30 - 10:00 & Lorentz & Systems & Cognition & ? & \\ \cline{2-2}
-10:00 - 10:30 & Welcome & Biology & and AI & ? & \\ \cline{2-2}
-10:30 - 11:30 & Dynamical & (Krivine) & (Coecke) & ? & ? \\  \cline{3-6}
-11:30 - 12:15 & Systems (Baez) & Discussion & Discussion & Discussion & Discussion \\ \hline
-12:15 - 2:00 & Lunch & Lunch & Lunch & Lunch & Lunch \\
+9:00 - 9:30 & Arrival & & & & \\ \cline{2-4} \cline{6-6}
+9:30 - 10:00 & Welcome & Sys. Bio. & Cogn. + AI &  & \redout{talk?} \\ \cline{2-2}
+10:00 - 10:30 & Dyn. Sys. & (Krivine)  & (Coecke) & Highlights & \\ \cline{3-4} \cline{6-6}
+10:30 - 11:00 & (Baez) & \emph{break} & \emph{break} & forum & \emph{break} \\  \cline{2-4} \cline{6-6}
+11:00 - 11:30 & 2 talks & 2 talks & 2 talks & & 2 talks \\ \cline{2-4} \cline{6-6}
+11:30 - 12:30 & Discussion & Discussion & Discussion & & Discussion \\ 
+&&&&& \\\hline
+12:30 - 2:00 & Lunch & Lunch & Lunch & Lunch & Lunch \\
+&&&&& \\
 &&&&& \\ \hline
-2:00 - 3:00 & Sheaves & Comput- & Monoidal & ??? & ??? \\
-& (Abramsky) & ation (Vicary) & (?) & & \\ \hline
-3:00 - 3:45 & Discussion & Discussion & Discussion & Discussion & Discussion \\ \hline
-3:45 - 4:45 & & & Boat & & \\ 
+2:00 - 3:00 & Sheaves & Computation & Monoidal & & \redout{Talk?} \\
+& (Abramsky) & (Vicary) & (?) & Problem & \\ \cline{2-4} \cline{6-6}
+3:00 - 3:45 & \emph{break} & \emph{break} & Discussion & Session & Discussion \\ \cline{2-4} \cline{6-6}
+3:45 - 4:45 & Discussion & Discussion & Boat & & Closing \\ 
 4:45 - 5:30 & & & trip and & & \\ \cline{2-3} \cline{5-6}
 & Wine and cheese & & dinner & &  \\ \hline
 \end{tabular}
@@ -90,7 +92,9 @@ Overview:
 \subsection{Tutorial weekend}
 Immediately prior to the workshop, we will organize a 3-day weekend of tutorials targeted at graduate students and postdocs, though we envision more senior researchers who wish to broaden their horizons will also be interested in attending.
 
-To supplement the tutorial weekend, we will host an online ``Kan Extension Lab'' for graduate students prior to the workshop, whose participants will then be invited to speak at either the tutorial weekend or at the workshop itself. The output of the Extension Lab will be published in a special issue of \redout{???}.
+Two keynote lectures at the tutorials will be given by \redout{???, ???, and ???}.
+
+To supplement the tutorial weekend, we will host an online ``Kan Extension Lab'' for graduate students prior to the workshop, whose participants will present the results of their work in the lab either at the tutorial weekend or at the workshop itself. The output of the Extension Lab will be published in a special issue of \redout{???}.
 
 \section{Participants}
 The estimated number of participants is 55. At the time of writing of this proposal, the planned workshop already has ?? confirmed participants with affiliations in the Netherlands, the UK, the US, and [...].
@@ -100,7 +104,6 @@ Confirmed participants for tutorial weekend: ??.
 Junior/senior ratio: ??.
 
 \begin{enumerate}
-\item First Last (Affiliation), prof/PhD/postdoc, subject of expertise
 \item Samson Abramsky (Oxford), prof, computer science
 \item John Baez (UC Riverside), prof, math
 \item Bob Coecke (Oxford), prof, computer science
