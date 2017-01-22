@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 JAN 2017 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 JAN 2017 12:31
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -353,11 +353,6 @@ From Dagstuhl:
  []
 
 [2]
-Overfull \hbox (6.03004pt too wide) in paragraph at lines 75--75
-[]\OT1/cmr/m/n/10 Computation| 
- []
-
-
 Overfull \hbox (0.83559pt too wide) in paragraph at lines 76--76
 []\OT1/cmr/m/n/10 (Abramsky)| 
  []
@@ -375,6 +370,9 @@ Overfull \hbox (43.29515pt too wide) in paragraph at lines 62--82
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [3] [4] [5] (./lorentz_proposal.aux)
 
 LaTeX Warning: There were undefined references.
@@ -383,7 +381,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  4924 strings out of 493089
  62121 string characters out of 6134842
- 182298 words of memory out of 5000000
+ 184298 words of memory out of 5000000
  8337 multiletter control sequences out of 15000+600000
  13298 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -397,7 +395,7 @@ local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lorentz_proposal.pdf (5 pages, 116401 bytes).
+Output written on lorentz_proposal.pdf (5 pages, 117583 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
