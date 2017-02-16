@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 JAN 2017 12:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 FEB 2017 15:42
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -346,42 +346,32 @@ e 32.
 
 LaTeX Warning: Citation `baez_rosetta' on page 2 undefined on input line 34.
 
-
-Overfull \hbox (6.74138pt too wide) in paragraph at lines 44--45
-[]\OT1/cmr/m/n/10 Communication: []how do we com-mu-ni-cate with other fields? 
-From Dagstuhl:
- []
-
-[2]
-Overfull \hbox (0.83559pt too wide) in paragraph at lines 76--76
+[2] [3]
+Overfull \hbox (0.83559pt too wide) in paragraph at lines 78--78
 []\OT1/cmr/m/n/10 (Abramsky)| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\OT1/cmr/m/n/10 Wine and
  []
 
 
-Overfull \hbox (43.29515pt too wide) in paragraph at lines 62--82
+Overfull \hbox (43.29515pt too wide) in paragraph at lines 64--84
  [] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3] [4] [5] (./lorentz_proposal.aux)
+[4]
+No file lorentz_proposal.bbl.
+[5] (./lorentz_proposal.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4924 strings out of 493089
- 62121 string characters out of 6134842
- 184298 words of memory out of 5000000
+ 4925 strings out of 493089
+ 62125 string characters out of 6134842
+ 181298 words of memory out of 5000000
  8337 multiletter control sequences out of 15000+600000
  13298 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -395,7 +385,7 @@ local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lorentz_proposal.pdf (5 pages, 117583 bytes).
+Output written on lorentz_proposal.pdf (5 pages, 118096 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
