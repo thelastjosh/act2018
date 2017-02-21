@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 FEB 2017 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 FEB 2017 14:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -298,54 +298,9 @@ Package xypdf Info: Line width: 0.39998pt on input line 14.
 
 LaTeX Warning: No \author given.
 
-
-LaTeX Warning: Citation `abramsky' on page 1 undefined on input line 28.
-
-
-LaTeX Warning: Citation `coecke' on page 1 undefined on input line 28.
-
-
-LaTeX Warning: Citation `cardelli' on page 1 undefined on input line 28.
-
-
-LaTeX Warning: Citation `baez' on page 1 undefined on input line 28.
-
-
-LaTeX Warning: Citation `rosebrugh' on page 1 undefined on input line 28.
-
-
-LaTeX Warning: Citation `spivak' on page 1 undefined on input line 28.
-
-
-LaTeX Warning: Citation `simpson' on page 1 undefined on input line 30.
-
-
-LaTeX Warning: Citation `pippenger' on page 1 undefined on input line 30.
-
-
-LaTeX Warning: Citation `abramsky_coecke' on page 1 undefined on input line 30.
-
-
-
-LaTeX Warning: Citation `spivak_book' on page 1 undefined on input line 30.
-
-
-LaTeX Warning: Citation `earlier_citation?' on page 1 undefined on input line 3
-0.
-
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `dagstuhl' on page 2 undefined on input line 32.
-
-
-LaTeX Warning: Citation `selinger_at_dagstuhl' on page 2 undefined on input lin
-e 32.
-
-
-LaTeX Warning: Citation `baez_rosetta' on page 2 undefined on input line 34.
-
 [2] [3]
 Overfull \hbox (0.83559pt too wide) in paragraph at lines 78--78
 []\OT1/cmr/m/n/10 (Abramsky)| 
@@ -361,34 +316,28 @@ Overfull \hbox (43.29515pt too wide) in paragraph at lines 64--84
  [] 
  []
 
-[4]
-No file lorentz_proposal.bbl.
-[5] (./lorentz_proposal.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[4] (./lorentz_proposal.bbl [5]) [6] (./lorentz_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4925 strings out of 493089
- 62125 string characters out of 6134842
- 181298 words of memory out of 5000000
- 8337 multiletter control sequences out of 15000+600000
- 13298 words of font info for 55 fonts, out of 8000000 for 9000
+ 4922 strings out of 493089
+ 62089 string characters out of 6134842
+ 181333 words of memory out of 5000000
+ 8333 multiletter control sequences out of 15000+600000
+ 12990 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  27i,10n,26p,3248b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lorentz_proposal.pdf (5 pages, 118096 bytes).
+</usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on lorentz_proposal.pdf (6 pages, 116352 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

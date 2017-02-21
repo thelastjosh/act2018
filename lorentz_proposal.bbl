@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{dagstuhl14}
+Samson Abramsky, John~C. Baez, Fabio Gadducci, and Viktor Winschel.
+\newblock Categorical methods at the crossroads.
+\newblock Report from Dagstuhl Perspectives Workshop 14182, 2014.
+
+\bibitem{abramsky09}
+Samson Abramsky and Bob Coecke.
+\newblock A categorical semantics of quantum protocols.
+\newblock In {\em Handbook of Quantum Logic and Quantum Structures}. Elsevier,
+  2009.
+
+\bibitem{arbib05}
+Michael~A. Arbib and Ernest~G. Manes.
+\newblock A categorist's view of automata and systems.
+\newblock In Ernest~G. Manes, editor, {\em Category Theory Applied to
+  Computation and Control}. Springer Berlin Heidelberg, 2005.
+
+\bibitem{baez09}
+John~C. Baez.
+\newblock Physics, topology, logic and computation: A rosetta stone.
+\newblock Accessed from math.ucr.edu/home/baez/rosetta.pdf, March 2009.
+
+\bibitem{baez15}
+John~C. Baez and Brendan Fong.
+\newblock A compositional framework for passive linear networks.
+\newblock {\em ArXiv e-prints}, 2015.
+
+\bibitem{rosebrugh03}
+Michael Fleming, Ryan Gunther, and Robert Rosebrugh.
+\newblock A database of categories.
+\newblock {\em Journal of Symbolic Computing}, 35(2):127--135, February 2003.
+
+\bibitem{moggi91}
+Eugenio Moggi.
+\newblock Notions of computation and monads.
+\newblock {\em Information and Computation}, 93(1):55--92, July 1991.
+
+\bibitem{pippenger97}
+Nicholas Pippenger.
+\newblock Regular languages and stone duality.
+\newblock {\em Theory Computing Systems}, pages 121--134, 1997.
+
+\bibitem{rosen58}
+Robert Rosen.
+\newblock The representation of biological systems from the standpoint of the
+  theory of categories.
+\newblock {\em Bulletin of Mathematical Biophysics}, 20:317--341, 1958.
+
+\bibitem{spivak}
+David~I. Spivak.
+\newblock {\em Category Theory for Scientists}.
+\newblock MIT Press, 2014.
+
+\bibitem{spivak16}
+David~I. {Spivak}, Christina {Vasilakopoulou}, and Patrick {Schultz}.
+\newblock Dynamical systems and sheaves.
+\newblock {\em ArXiv e-prints}, September 2016.
+
+\end{thebibliography}
