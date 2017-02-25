@@ -19,7 +19,8 @@
 \item John Baez (math)
 \item Bob Coecke (physics and linguistics) 
 \item Brendan Fong (dynamical systems)
-\item Aleks Kissinger, main contact (computer science)
+\item Aleks Kissinger (computer science)
+\item Martha Lewis (linguistics)
 \item Joshua Tan, main contact (computer science)
 \end{enumerate}
 
@@ -27,11 +28,11 @@
 \subsection{Scientific background}
 Category theory was developed in the 1940s to translate ideas from one field of mathematics, e.g. topology, to another field of mathematics, e.g. algebra. More recently, category theory has become an unexpectedly useful and economical tool for modeling a range of different disciplines, including programming language theory \cite{moggi91}, quantum mechanics \cite{abramsky09}, systems biology \cite{rosen58}, complex networks \cite{baez15}, database theory \cite{rosebrugh03}, and dynamical systems \cite{spivak16}.
 
-A category consists of a collection of objects together with a collection of maps between those objects, satisfying certain rules. Topologists and geometers use category theory to describe the passage from one mathematical structure to another, while pure category theorists study categories as their own mathematical structures. In computer science and physics, many categorical constructions (e.g. topoi, or Stone duality, or compact closed categories) are used to give a formal semantics of domain-specific phenomena (e.g. automata \cite{arbib05}, or regular languages \cite{pippenger97}, or quantum protocols \cite{abramsky09}).\footnote{The categorical semantics is often preferable to set- or type-theoretic semantics in some way: for example, compact closed categories have an elegant graphical language in terms of string diagrams.} In the applied category theory community, a long-articulated vision understands categories as mathematical workspaces for all sciences, similar to how they are used in topology and geometry \cite{spivak}. While it is too early to say whether this vision will bear fruit, we do believe that category theory has the potential to bridge \emph{specific} different fields, and moreover that developments in such fields (e.g. automata) can be transferred successfully into other fields (e.g. systems biology) \emph{through} category theory.
+A category consists of a collection of objects together with a collection of maps between those objects, satisfying certain rules. Topologists and geometers use category theory to describe the passage from one mathematical structure to another, while category theorists are also interested in categories for their own sake. In computer science and physics, many types of categories (e.g. topoi or monoidal categories) are used to give a formal semantics of domain-specific phenomena (e.g. automata \cite{arbib05}, or regular languages \cite{pippenger97}, or quantum protocols \cite{abramsky09}).\footnote{The categorical semantics is often preferable to set- or type-theoretic semantics in some way: for example, compact closed categories have an elegant graphical language in terms of string diagrams.} In the applied category theory community, a long-articulated vision understands categories as mathematical workspaces for the experimental sciences, similar to how they are used in topology and geometry \cite{spivak}. This has proved true in certain fields, including computer science and mathematical physics, and we believe that these results can be extended in a exciting direction: we believe that category theory has the potential to bridge specific different fields, and moreover that developments in such fields (e.g. automata) can be transferred successfully into other fields (e.g. systems biology) \emph{through} category theory.
 
 Most extant applications of category theory outside of pure mathematics have used categories to model some phenomena, in the tradition of formal semantics. The most recent workshop on applied category theory was held at Dagstuhl, Germany, in 2015, where ``the over-arching research theme was to develop categorical methods as a unified approach to the modeling of complex systems, and category theory as a paradigm for mathematical modeling and applied science'' \cite{dagstuhl14}. But one of the observations made at Dagstuhl, was that ``a weakness of semantics/CT is that the definitions play a key role. Having the right definitions makes the theorems trivial, which is the opposite of hard subjects where they have combinatorial proofs of theorems (and simple definitions). [...] In general, the audience agrees that people see category theorists only as reconstructing the things they knew already, and that is a disadvantage, because we do not give them a good reason to care enough'' \cite[pg. 61]{dagstuhl14}.
 
-In this workshop, we wish to articulate a natural response: instead of treating the reconstruction as a weakness, we should treat categorification as a natural consequence of transferring and integrating knowledge across disciplines, in the sense of a mathematical workspace. The greatest barrier to knowledge transfer between disciplines is the one of language: jargon in one discipline renders it incomprehensible to those outside the research community. The restructuring employed in applied category theory elucidates common themes across disciplines, and rephrases it in an attempt at a common language. Indeed, the drive for a common language and comparison of similar structures in algebra and topology is what led to the development category theory in the first place, and recent hints show that this approach is not only useful between mathematical disciplines, but between scientific ones as well. For example, the `Rosetta Stone' of Baez and Stay demonstrates how cartesian closed categories capture the common structure between logic, computation, and physics \cite{baez09}. 
+In this workshop, we wish to articulate a natural response: instead of treating the reconstruction as a weakness, we should treat the use of categorical concepts as a natural part of transferring and integrating knowledge across disciplines. The greatest barrier to knowledge transfer between disciplines is the one of language: jargon in one discipline renders it incomprehensible to those outside the research community. The restructuring employed in applied category theory elucidates common themes across disciplines, and rephrases it in an attempt at a common language. Indeed, the drive for a common language and comparison of similar structures in algebra and topology is what led to the development category theory in the first place, and recent hints show that this approach is not only useful between mathematical disciplines, but between scientific ones as well. For example, the `Rosetta Stone' of Baez and Stay demonstrates how symmetric monoidal closed categories capture the common structure between logic, computation, and physics \cite{baez09}. 
 
 %Through the curry  The efficacy of this has been demonstrated \redout{We believe... this is the future? ... this approach has been underrepresented? ... this topic has been largely unexplored? ... the difference is largely psychological, like the difference between classical and modern geometry? ... cited in early examples, like Baez's `rosetta stone' \cite{baez_rosetta}? ... is the language just convenient for manipulation, or are there real \emph{theorems} that go between fields?}
 
@@ -47,16 +48,16 @@ Some of the specific challenges and outcomes we wish to address include:
 \item Pedagogy: one of the open problems discussed at Dagstuhl was the perceived and actual difficulty of category theory. Despite the flexibility and expressiveness of categorical tools in mathematics and computer science, the perceived difficulty of category theory has hindered wider acceptance of the formalism in other areas of interest. Different approaches were suggested, including focusing on automated theorem proving. We plan on addressing this problem over the tutorial weekend, and through the organization of the ``Kan Extension Lab''.
 \end{enumerate}
 
-Other challenges, specific to each application area, include \redout{???} (dynamical systems), \redout{???} (dynamical systems), \redout{???} (systems biology), and \redout{???} (cognition and AI).
+% Other challenges, specific to each application area, include \redout{???} (dynamical systems), \redout{???} (systems biology), and \redout{???} (cognition and AI).
 
 Our workshop will be considered a success if it results in joint research between researchers specializing in different applications (e.g. physics and biology, or economics and AI) or in research that carries over techniques from one application domain of category theory to another, and if the workshop introduces new researchers into the field.
 
 \subsection{Connection to the Dutch research community}
-In the Dutch applied category theory community, a number of people use category theory  in the context of coalgebras, especially for software verification. Bart Jacobs has worked on this, along with Helle (Delft), Juriaan Rot (Radboud), and Jan Rutten (Amsterdam). Michael Moortgat (Utrecht) and \redout{Martha Lewis (???)} work on linguistic applications. Aleks Kissinger (Radboud) works on quantum algorithms and graph rewriting systems using category theory. In pure category theory and topos theory, Ieke Moerdijk (Utrecht) developed many of the foundations. Klaas Landsmen (Radboud) works on topos theory, operator algebras, and quantum theory. In categorical logic are Sonja Smets and Alexandru Baltag (Amsterdam); both are friendly to applications of category theory, e.g. categorical quantum mechanics.
+In the Dutch applied category theory community, a number of people use category theory  in the context of coalgebras, especially for software verification. Bart Jacobs has worked on this, along with Helle Hvid Hansen (Delft), Juriaan Rot (Radboud), and Jan Rutten (Amsterdam). Michael Moortgat (Utrecht) and \redout{Martha Lewis (???)} work on linguistic applications. Aleks Kissinger (Radboud) works on quantum algorithms and graph rewriting systems using category theory. In pure category theory and topos theory, Ieke Moerdijk (Utrecht) developed many of the foundations. Klaas Landsmen (Radboud) works on topos theory, operator algebras, and quantum theory. Dutch researchers in categorical logic include Sonja Smets and Alexandru Baltag (Amsterdam); both are friendly to applications of category theory, e.g. categorical quantum mechanics.
 
 \section{Program}
 \subsection{Workshop week}
-The workshop highlights three particular applications of category theory: (1) to dynamical systems and networks, (2) to systems biology, and (3) to cognition and AI. While there will be a short introductory lecture for each application domain, the afternoons will intermix all three applications by focusing on common techniques (Monday and Wednesday), computational tools (Tuesday), and common problems and goals (Thursday afternoon) across all three. On Thursday morning, there will be a half-day Highlights session of 8-minute talks.
+The workshop highlights three particular applications of category theory: (1) to dynamical systems and networks, (2) to systems biology, and (3) to cognition and AI. While there will be a short introductory lecture for each application domain, the afternoons will intermix all three applications by focusing on common techniques (Monday and Tuesday), computational tools (Wednesday), and common problems and goals (Thursday afternoon) across all three. On Thursday morning, there will be a half-day Highlights session of 8-minute talks.
 
 \begin{table}[h!]
 \begin{center}
@@ -65,8 +66,8 @@ The workshop highlights three particular applications of category theory: (1) to
 \hline
 Time & Monday & Tuesday & Wednesday & Thursday & Friday \\ \hline
 9:00 - 9:30 & Arrival & & & & \\ \cline{2-4} \cline{6-6}
-9:30 - 10:00 & Welcome & Sys. Bio. & Cogn. + AI &  & talk? \\ \cline{2-2}
-10:00 - 10:30 & Dyn. Sys. & (Krivine)  & (Coecke) & Highlights & \\ \cline{3-4} \cline{6-6}
+9:30 - 10:00 & Welcome & Cogn. + AI & Sys. Bio. &  & Industrial \\ \cline{2-2}
+10:00 - 10:30 & Dyn. Sys. & (Jacobs)  & (Krivine) & Highlights & (TBD) \\ \cline{3-4} \cline{6-6}
 10:30 - 11:00 & (Baez) & \emph{break} & \emph{break} & forum & \emph{break} \\  \cline{2-4} \cline{6-6}
 11:00 - 11:30 & 2 talks & 2 talks & 2 talks & & 2 talks \\ \cline{2-4} \cline{6-6}
 11:30 - 12:30 & Discussion & Discussion & Discussion & & Discussion \\ 
@@ -74,8 +75,8 @@ Time & Monday & Tuesday & Wednesday & Thursday & Friday \\ \hline
 12:30 - 2:00 & Lunch & Lunch & Lunch & Lunch & Lunch \\
 &&&&& \\
 &&&&& \\ \hline
-2:00 - 3:00 & Sheaves & Computing & Monoidal & & talk? \\
-& (Abramsky) & (Vicary) & (?) & Problem & \\ \cline{2-4} \cline{6-6}
+2:00 - 3:00 & Entropy & KR & Computing & & New Direct. \\
+& (Leinster) & (Abramsky) & (Moss) & Problem & (TBD) \\ \cline{2-4} \cline{6-6}
 3:00 - 3:45 & \emph{break} & \emph{break} & Discussion & Session & Discussion \\ \cline{2-4} \cline{6-6}
 3:45 - 4:45 & Discussion & Discussion & Boat & & Closing \\ 
 4:45 - 5:30 & & & trip and & & \\ \cline{2-3} \cline{5-6}
@@ -96,14 +97,14 @@ lunch/break & 2.1 hrs & 10.5 hrs \\ \hline
 \end{center}
 \end{table}%
 
-Each working day will include one keynote lecture during the morning that sets the stage for the day, followed by two to three 15-minute talks that delve into specific aspects of content in the keynote lecture. For example, on Wednesday, there will be a survey lecture by \redout{Bob Coecke} on computational category theory, followed by two 15-minute talks on \redout{???} and \redout{???}. These will be followed by an additional talk in the early afternoon, which will present active areas of research in these topics. Each morning and afternoon will be closed by a discussion session or an extended coffee break.
+Each working day will include one keynote lecture during the morning that sets the stage for the day, followed by two to three 15-minute talks that delve into specific aspects of content in the keynote lecture. For example, on Tuesday, there will be a survey lecture by \redout{Bart Jacobs} on category theory for AI, followed by two 15-minute talks delving into Bayesian probability and linguistics. These will be followed by an additional talk in the early afternoon, which will present active areas of research in these topics. Each morning and afternoon will be closed by a discussion session or an extended coffee break. During each discussion session, the participants will be encouraged to break into smaller groups, each led by one of the presenters or a senior researcher, that will focus on developing some of the problems and issues raised by the presenters in their lectures.
 
 % during these sessions the attendants will split into several groups according to the main thematic areas that had been identified on the first day. Suggested application areas include (quantum) computation, physics, biology, complex systems, economic, social and cognitive science, and linguistics. Indeed, some of the items span more than one discipline, e. g. game theory, and the list is definitively not exhaustive.
 
 \subsection{Tutorial weekend}
 Immediately prior to the workshop, we will organize a 3-day weekend of tutorials targeted at graduate students and postdocs, though we envision more senior researchers who wish to broaden their horizons will also be interested in attending.
 
-Two keynote lectures at the tutorials will be given by \redout{John Baez and Jamie Vicary}.
+Two keynote lectures at the tutorials will be given by \redout{John Baez and Prakash Panangaden}.
 
 To supplement the tutorial weekend, we will host an online ``Kan Extension Lab'' for graduate students prior to the workshop, whose participants will present the results of their work in the lab either at the tutorial weekend or at the workshop itself. The output of the Extension Lab will be published in a special issue of \redout{???}.
 
