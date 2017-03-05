@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: lorentz_proposal.aux
 The style file: plain.bst
 Database file #1: lorentz.bib
-You've used 11 entries,
+You've used 14 entries,
             2118 wiz_defined-function locations,
-            559 strings with 5385 characters,
-and the built_in function-call counts, 3093 in all, are:
-= -- 299
-> -- 137
+            577 strings with 5983 characters,
+and the built_in function-call counts, 4038 in all, are:
+= -- 381
+> -- 199
 < -- 1
-+ -- 59
-- -- 43
-* -- 188
-:= -- 550
-add.period$ -- 35
-call.type$ -- 11
-change.case$ -- 53
++ -- 83
+- -- 63
+* -- 250
+:= -- 718
+add.period$ -- 45
+call.type$ -- 14
+change.case$ -- 71
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 127
-empty$ -- 246
-format.name$ -- 43
-if$ -- 642
+cite$ -- 14
+duplicate$ -- 166
+empty$ -- 321
+format.name$ -- 63
+if$ -- 837
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 10
-newline$ -- 58
-num.names$ -- 24
-pop$ -- 54
+int.to.str$ -- 14
+missing$ -- 13
+newline$ -- 73
+num.names$ -- 32
+pop$ -- 78
 preamble$ -- 1
-purify$ -- 43
+purify$ -- 58
 quote$ -- 0
-skip$ -- 82
+skip$ -- 104
 stack$ -- 0
-substring$ -- 145
-swap$ -- 18
+substring$ -- 161
+swap$ -- 22
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 42
+type$ -- 54
 warning$ -- 0
-while$ -- 28
-width$ -- 13
-write$ -- 118
+while$ -- 35
+width$ -- 16
+write$ -- 150
