@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 MAR 2017 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 MAR 2017 13:48
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -316,7 +316,42 @@ Overfull \hbox (43.29515pt too wide) in paragraph at lines 65--85
  [] 
  []
 
-[4] (./lorentz_proposal.bbl [5] [6]) [7] (./lorentz_proposal.aux) ) 
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\OT1/cmr/m/n/10 Tutorial:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\OT1/cmr/m/n/10 Keynote:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+[]\OT1/cmr/m/n/10 Keynote:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]\OT1/cmr/m/n/10 Tutorial:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]\OT1/cmr/m/n/10 Tutorial:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/10 Tutorial:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\OT1/cmr/m/n/10 Wine &
+ []
+
+[5] [6] (./lorentz_proposal.bbl [7]) [8] (./lorentz_proposal.aux) ) 
 Here is how much of TeX's memory you used:
  4925 strings out of 493089
  62123 string characters out of 6134842
@@ -334,10 +369,10 @@ ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lorentz_proposal.pdf (7 pages, 118843 bytes).
+Output written on lorentz_proposal.pdf (8 pages, 122252 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
