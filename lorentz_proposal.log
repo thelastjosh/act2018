@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 MAY 2017 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 MAY 2017 15:59
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -321,37 +321,97 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4]
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/10 Tutorial:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
 []\OT1/cmr/m/n/10 Keynote:
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/10 Keynote:
+\OT1/cmr/m/n/10 Di-a-grams
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]\OT1/cmr/m/n/10 Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\OT1/cmr/m/n/10 Anal-y-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\OT1/cmr/m/n/10 ([]Bubenik
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]\OT1/cmr/m/n/10 Linear
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\OT1/cmr/m/n/10 Al-ge-bra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\OT1/cmr/m/n/10 (Sobocin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]\OT1/cmr/m/n/10 Dynamical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\OT1/cmr/m/n/10 Sys-tems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
 []\OT1/cmr/m/n/10 Tutorial:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+\OT1/cmr/m/n/10 Glob-u-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]\OT1/cmr/m/n/10 Boat trip
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 123--123
+\OT1/cmr/m/n/10 and school
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
 []\OT1/cmr/m/n/10 Tutorial:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-[]\OT1/cmr/m/n/10 Tutorial:
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\OT1/cmr/m/n/10 Discussion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
+Underfull \hbox (badness 1184) in paragraph at lines 123--124
+\OT1/cmr/m/n/10 + Prob-lem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
 []\OT1/cmr/m/n/10 Wine &
+ []
+
+
+Overfull \hbox (60.96408pt too wide) in paragraph at lines 113--126
+ [] 
  []
 
 [5] [6] (./lorentz_proposal.bbl [7]) [8] (./lorentz_proposal.aux) ) 
@@ -372,7 +432,7 @@ ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lorentz_proposal.pdf (8 pages, 122361 bytes).
+Output written on lorentz_proposal.pdf (8 pages, 122205 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
