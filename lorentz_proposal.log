@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 MAY 2017 15:59
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.5)  9 MAY 2017 00:16
+>>>>>>> origin/master
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
-**lorentz_proposal.tex
+**lorentz_proposal.tex -inverse-search gvim --servername GVIM --remote +\%l \%f
+
 (./lorentz_proposal.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
@@ -302,24 +306,28 @@ LaTeX Warning: No \author given.
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3]
-Overfull \hbox (0.83559pt too wide) in paragraph at lines 82--82
+Overfull \hbox (0.83559pt too wide) in paragraph at lines 109--109
 []\OT1/cmr/m/n/10 (Abramsky)| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
 []\OT1/cmr/m/n/10 Wine and
  []
 
 
-Overfull \hbox (43.29515pt too wide) in paragraph at lines 68--88
+Overfull \hbox (43.29515pt too wide) in paragraph at lines 95--115
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [4]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
 []\OT1/cmr/m/n/10 Keynote:
  []
@@ -371,10 +379,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--117
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 123--123
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 []\OT1/cmr/m/n/10 Tutorial:
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 Keynote:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 Keynote:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]\OT1/cmr/m/n/10 Tutorial:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+>>>>>>> origin/master
+[]\OT1/cmr/m/n/10 Tutorial:
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 123--123
 \OT1/cmr/m/n/10 Glob-u-lar
  []
@@ -391,10 +423,14 @@ Underfull \hbox (badness 3746) in paragraph at lines 123--123
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 123--123
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+>>>>>>> origin/master
 []\OT1/cmr/m/n/10 Tutorial:
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 []\OT1/cmr/m/n/10 Discussion
  []
@@ -406,23 +442,30 @@ Underfull \hbox (badness 1184) in paragraph at lines 123--124
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 124--124
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+>>>>>>> origin/master
 []\OT1/cmr/m/n/10 Wine &
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (60.96408pt too wide) in paragraph at lines 113--126
  [] 
  []
+=======
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+>>>>>>> origin/master
 
 [5] [6] (./lorentz_proposal.bbl [7]) [8] (./lorentz_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4925 strings out of 493089
- 62123 string characters out of 6134842
- 181345 words of memory out of 5000000
- 8336 multiletter control sequences out of 15000+600000
+ 4925 strings out of 493054
+ 62123 string characters out of 6134766
+ 188503 words of memory out of 5000000
+ 8374 multiletter control sequences out of 15000+600000
  12990 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,10n,26p,3248b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,26p,3305b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
@@ -432,7 +475,11 @@ ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+<<<<<<< HEAD
 Output written on lorentz_proposal.pdf (8 pages, 122205 bytes).
+=======
+Output written on lorentz_proposal.pdf (8 pages, 123215 bytes).
+>>>>>>> origin/master
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
