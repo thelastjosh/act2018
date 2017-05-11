@@ -1,16 +1,12 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 MAY 2017 15:59
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.5)  9 MAY 2017 00:16
->>>>>>> origin/master
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 MAY 2017 17:55
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**lorentz_proposal.tex -inverse-search gvim --servername GVIM --remote +\%l \%f
-
+**lorentz_proposal.tex
 (./lorentz_proposal.tex
-LaTeX2e <2015/10/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
@@ -327,145 +323,87 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4]
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/10 Keynote:
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 Diagrams
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-\OT1/cmr/m/n/10 Di-a-grams
+Underfull \hbox (badness 1342) in paragraph at lines 144--144
+[]\OT1/cmr/m/n/10 Lin. Alg.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/10 Data
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-\OT1/cmr/m/n/10 Anal-y-sis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-\OT1/cmr/m/n/10 ([]Bubenik
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]\OT1/cmr/m/n/10 Linear
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-\OT1/cmr/m/n/10 Al-ge-bra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 \OT1/cmr/m/n/10 (Sobocin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 []\OT1/cmr/m/n/10 Dynamical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 \OT1/cmr/m/n/10 Sys-tems
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
 []\OT1/cmr/m/n/10 Tutorial:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
-[]\OT1/cmr/m/n/10 Keynote:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
-[]\OT1/cmr/m/n/10 Keynote:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
-[]\OT1/cmr/m/n/10 Tutorial:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
->>>>>>> origin/master
-[]\OT1/cmr/m/n/10 Tutorial:
- []
-
-
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
 \OT1/cmr/m/n/10 Glob-u-lar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
 []\OT1/cmr/m/n/10 Boat trip
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 123--123
+Underfull \hbox (badness 3746) in paragraph at lines 150--150
 \OT1/cmr/m/n/10 and school
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
->>>>>>> origin/master
-[]\OT1/cmr/m/n/10 Tutorial:
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\OT1/cmr/m/n/10 Tutorial
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
 []\OT1/cmr/m/n/10 Discussion
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 123--124
+Underfull \hbox (badness 1184) in paragraph at lines 150--150
 \OT1/cmr/m/n/10 + Prob-lem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
->>>>>>> origin/master
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
 []\OT1/cmr/m/n/10 Wine &
  []
 
 
-<<<<<<< HEAD
-Overfull \hbox (60.96408pt too wide) in paragraph at lines 113--126
+Overfull \hbox (60.96408pt too wide) in paragraph at lines 140--153
  [] 
  []
-=======
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
->>>>>>> origin/master
 
 [5] [6] (./lorentz_proposal.bbl [7]) [8] (./lorentz_proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4925 strings out of 493054
- 62123 string characters out of 6134766
- 188503 words of memory out of 5000000
- 8374 multiletter control sequences out of 15000+600000
+ 4925 strings out of 493089
+ 62123 string characters out of 6134842
+ 187345 words of memory out of 5000000
+ 8336 multiletter control sequences out of 15000+600000
  12990 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,10n,26p,3305b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,26p,3248b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
@@ -475,11 +413,7 @@ ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-<<<<<<< HEAD
-Output written on lorentz_proposal.pdf (8 pages, 122205 bytes).
-=======
-Output written on lorentz_proposal.pdf (8 pages, 123215 bytes).
->>>>>>> origin/master
+Output written on lorentz_proposal.pdf (8 pages, 123311 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
