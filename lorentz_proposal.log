@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 MAY 2017 06:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 MAY 2017 23:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -301,97 +301,85 @@ LaTeX Warning: No \author given.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3]
-Overfull \hbox (0.83559pt too wide) in paragraph at lines 113--113
+[2] [3] [4]
+Overfull \hbox (0.83559pt too wide) in paragraph at lines 99--99
 []\OT1/cmr/m/n/10 (Abramsky)| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 []\OT1/cmr/m/n/10 Wine and
  []
 
 
-Overfull \hbox (69.66405pt too wide) in paragraph at lines 99--119
+Overfull \hbox (69.66405pt too wide) in paragraph at lines 85--105
  [] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10 Diagrams
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 146--146
+Underfull \hbox (badness 1342) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10 Lin. Alg.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10 (Sobocin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 []\OT1/cmr/m/n/10 Dynamical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
 \OT1/cmr/m/n/10 Sys-tems
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--152
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []\OT1/cmr/m/n/10 Tutorial:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--152
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 \OT1/cmr/m/n/10 Glob-u-lar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--152
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []\OT1/cmr/m/n/10 Boat trip
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 152--152
+Underfull \hbox (badness 3746) in paragraph at lines 138--138
 \OT1/cmr/m/n/10 and school
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--152
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []\OT1/cmr/m/n/10 Discussion
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 152--152
+Underfull \hbox (badness 1184) in paragraph at lines 138--138
 \OT1/cmr/m/n/10 + Prob-lem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []\OT1/cmr/m/n/10 Wine &
  []
 
 
-Overfull \hbox (27.63068pt too wide) in paragraph at lines 142--155
+Overfull \hbox (27.63068pt too wide) in paragraph at lines 128--141
  [] 
  []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5] [6] [7]
 Missing character: There is no ˆ in font cmr10!
@@ -403,7 +391,7 @@ Missing character: There is no Ž in font cmr10!
 Here is how much of TeX's memory you used:
  4927 strings out of 493089
  62144 string characters out of 6134842
- 189345 words of memory out of 5000000
+ 187345 words of memory out of 5000000
  8337 multiletter control sequences out of 15000+600000
  13298 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -418,7 +406,7 @@ e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lorentz_proposal.pdf (10 pages, 137024 bytes).
+Output written on lorentz_proposal.pdf (10 pages, 137683 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
